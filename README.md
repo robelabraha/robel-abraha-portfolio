@@ -53,9 +53,7 @@ Java Developer with 5 years of experience delivering secure, scalable, and high-
 ---
 
 ## 💼 Professional Experience
-
-## 👜 Professional Experience  
-
+  
 **UnitedHealth Group – Full Stack Java Developer (Jul 2024 – Present)**  
 - Developed scalable Java and Spring Boot EHR/EMR modules with interactive UI components, improving patient workflow efficiency by **23%** and processing **12,000+ records daily**.  
 - Built responsive dashboards with React, Bootstrap, and Tailwind CSS, boosting scheduling efficiency by **27%** across **150+ daily appointments**.  
