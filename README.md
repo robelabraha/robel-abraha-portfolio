@@ -54,7 +54,54 @@ Java Developer with 5 years of experience delivering secure, scalable, and high-
 
 ## 💼 Professional Experience
 
-*(same as before — keeping your detailed bullet points)*
+## 👜 Professional Experience  
+
+**UnitedHealth Group – Full Stack Java Developer (Jul 2024 – Present)**  
+- Developed scalable Java and Spring Boot EHR/EMR modules with interactive UI components, improving patient workflow efficiency by **23%** and processing **12,000+ records daily**.  
+- Built responsive dashboards with React, Bootstrap, and Tailwind CSS, boosting scheduling efficiency by **27%** across **150+ daily appointments**.  
+- Deployed applications on AWS EC2 and S3, supporting **500+ concurrent users** while reducing infrastructure costs.  
+- Maintained **99.9% uptime** for hospital systems using AWS Lambda and CloudWatch.  
+- Optimized MySQL queries for **50,000+ records**, reducing retrieval time by **18%**.  
+
+**Tech Stack:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+---
+
+**DXC Technology – Junior Full Stack Java Developer (Jun 2022 – Jun 2024)**  
+- Designed enterprise Java applications, reducing transaction processing time by **17%** for **2M+ transactions**.  
+- Built Angular dashboards for transaction monitoring, increasing operational efficiency by **24%** for **500+ users**.  
+- Automated deployments with Azure App Services, Jenkins, and GitHub.  
+- Administered PostgreSQL databases with role-based access, improving data retrieval accuracy by **22%**.  
+- Created API documentation with Swagger/OpenAPI, improving integration efficiency for **50+ applications**.  
+
+**Tech Stack:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)  
+
+---
+
+**PNC Financials – Java Developer (Feb 2020 – May 2022)**  
+- Assisted in backend development using Java and Microservices, reducing system errors by **12%** across **5 modules**.  
+- Enhanced front-end dashboards with HTML5, CSS3, and JavaScript, improving usability by **16%** for **150+ daily users**.  
+- Supported cloud deployments with Kubernetes and Docker, reducing environment setup time by **13%**.  
+- Managed MongoDB collections for **120,000+ financial records**, ensuring secure storage.  
+- Improved release efficiency by **20%** with Maven and Jira CI workflows.  
+
+**Tech Stack:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+
 
 ---
 
