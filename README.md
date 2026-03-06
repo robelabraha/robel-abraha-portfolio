@@ -1,4 +1,4 @@
-# 👨‍💻 Robel T Abraha – Full Stack Developer
+# 👨‍💻 Robel Tekle Abraha – Full Stack Developer
 
 📍 Oakland, CA | 📧 abraharobel10@gmail.com  
 🔗 [GitHub](https://github.com/robelabraha) | [LinkedIn](https://www.linkedin.com/in/robel-abraha-8444b719a/) | [Resume (PDF)](https://github.com/robelabraha/robel-abraha-portfolio/blob/main/Robel%20Abraha_Resume.pdf)
