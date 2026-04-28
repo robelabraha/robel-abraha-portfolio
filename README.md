@@ -10,7 +10,7 @@
 
 ## 🧠 Summary
 
-Java Developer with 5 years of experience delivering secure, scalable, and high-performance applications across financial services, healthcare, and IT domains. Proficient in Java, Spring Boot, Hibernate, Microservices, RESTful APIs, and front-end frameworks like React and Angular. Experienced in developing HIPAA-compliant systems and financial applications, integrating complex databases, and optimizing application performance. Skilled in end-to-end development in Agile environments, translating business, clinical, and financial requirements into reliable, user-centric software solutions.
+Java Developer with 6 years of experience delivering secure, scalable, and high-performance applications across financial services, healthcare, and IT domains. Proficient in Java, Spring Boot, Hibernate, Microservices, RESTful APIs, and front-end frameworks like React and Angular. Experienced in developing HIPAA-compliant systems and financial applications, integrating complex databases, and optimizing application performance. Skilled in end-to-end development in Agile environments, translating business, clinical, and financial requirements into reliable, user-centric software solutions.
 
 ---
 
